@@ -8,6 +8,13 @@ This project will demonstrate an ongoing learning trajectory in the area of quan
 
 To be continue...
 
+## Guideline
+
+To run the code, please try the following:
+1. in terminal: pip install -r requirements.txt
+2. in main.py: comment everything but fetch_data(), pass a symbol (e.g. "AAPL") to start
+3. once the data is successfully downloaded to the database, comment fetch_data() and run main()
+
 ## Project Tree
 ```
 hello_backtrader
