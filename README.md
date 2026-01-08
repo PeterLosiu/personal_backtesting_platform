@@ -1,7 +1,9 @@
 ## Introduction
 
 This is a light backtesting platform for stocks, integrating some well-known tools including Backtrader and Quantstats. 
+
 Backtrader: https://github.com/mementum/backtrader.git
+
 Quantstats: https://github.com/ranaroussi/quantstats.git 
 
 This project will demonstrate an ongoing learning trajectory in the area of quantitative investing from zero, continuously expanding to different asset classes, more useful tools, and more complex strategies.
@@ -47,7 +49,7 @@ hello_backtrader
 
 ```
 
-## Author Intro
+## Something about the Author
 
 I'm Peter, currently a final year student in Chinese University of Hong Kong. I study in the major of Quantitative Finance and Risk Management Science, and is now pursuing a career in the quant world. 
 
