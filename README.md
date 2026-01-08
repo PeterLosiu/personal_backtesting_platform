@@ -51,6 +51,6 @@ hello_backtrader
 
 ## Something about the Author
 
-I'm Peter, currently a final year student in Chinese University of Hong Kong. I study in the major of Quantitative Finance and Risk Management Science, and is now pursuing a career in the quant world. 
+I'm Peter, currently a final year student in Chinese University of Hong Kong. I major in Bachelor of Science in Quantitative Finance and Risk Management Science, and is now pursuing a career in the quant world. 
 
 My passion is to integrate my cross-disciplinary skills from finance, computer science, and math to solve real-case problems. I enojoy innovating and creating useful tools, and hope to become financially independent by doing something I love to do. 
