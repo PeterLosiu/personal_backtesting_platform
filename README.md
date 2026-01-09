@@ -48,6 +48,8 @@ hello_backtrader
    └─ __init__.py
 
 ```
+<img width="1702" height="1524" alt="image" src="https://github.com/user-attachments/assets/e8f4b6ce-62ed-4fad-baa4-1cc27f7a804d" />
+
 
 ## Something about the Author
 
